@@ -1,0 +1,23 @@
+{
+  "name": "solana-web3js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Son/solana-web3js-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Son/solana-web3js-test/issues"
+  },
+  "homepage": "https://github.com/Nick-Son/solana-web3js-test#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
